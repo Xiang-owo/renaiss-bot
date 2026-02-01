@@ -1,0 +1,8 @@
+python-telegram-bot[ext]
+python-dotenv
+openai
+aiohttp
+sqlalchemy[asyncio]
+aiosqlite
+apscheduler
+loguru
